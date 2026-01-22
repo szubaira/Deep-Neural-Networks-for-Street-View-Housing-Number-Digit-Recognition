@@ -18,7 +18,7 @@ The SVHN dataset consists of labeled images of digits (0–9) extracted from str
 
 Initial exploration focused on understanding image dimensions, label distribution, and pixel value ranges. Images were normalized and reshaped to ensure compatibility with convolutional neural network architectures.
 
-Link to data: https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view?usp=sharing)
+Link to data: https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view?usp=sharing
 
 <img width="792" height="119" alt="Screen Shot 2026-01-23 at 01 06 17" src="https://github.com/user-attachments/assets/431ca346-c666-47e2-8b55-a3fcf8d3920d" />
 
