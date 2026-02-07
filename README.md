@@ -28,10 +28,9 @@ A **Convolutional Neural Network (CNN)** was constructed to capture the spatial 
 * **Evaluation Metrics:** * **Validation Accuracy:** 76%
 * **Test Accuracy:** 78%
 * **F1-Score:** 80% (Achieved after hyperparameter optimization)
+* **Results:** The model showed strong generalization abilities, maintaining consistent performance across diverse image conditions compared to shallower neural network architectures.
 <img width="791" height="772" alt="Screen Shot 2026-01-23 at 01 05 38" src="https://github.com/user-attachments/assets/7e612f7f-e2da-4936-96d8-9e1b2c77a76f" />
 <img width="785" height="536" alt="Screen Shot 2026-01-23 at 01 06 47" src="https://github.com/user-attachments/assets/b5de8351-dc95-4617-933b-38b0bb0cabc4" />
-
-* **Results:** The model showed strong generalization abilities, maintaining consistent performance across diverse image conditions compared to shallower neural network architectures.
 
 ### **Conclusion**
 
